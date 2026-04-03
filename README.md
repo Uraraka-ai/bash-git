@@ -1,1 +1,1 @@
-This is a readme to a project!
+Це швидка зміна, яка пройде першою
