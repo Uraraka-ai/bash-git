@@ -1,1 +1,1 @@
-This is a readme to a project!
+Це конфліктна зміна, яка все зламає
